@@ -5,4 +5,4 @@ GoodFirstIssue is a website designed to help new open source contributors find p
 
 ## Current Status
 
-Currently I've set up a prototype at [www.goodfiristissue.com](www.goodfiristissue.com).
+Currently I've set up a prototype at [www.goodfiristissue.com](https://www.goodfiristissue.com).
