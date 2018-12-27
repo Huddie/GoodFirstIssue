@@ -1,7 +1,7 @@
 # GoodFirstIssue
 
 
-GoodFirstIssue is a website designed to help new open source contributors find great projects to work on, by looking for projects with issues and labels welcoming new contributions. 
+GoodFirstIssue is a website designed to help new open source contributors find great projects to work on, by searching for projects with issues and labels welcoming new contributions. 
 
 ## Current Status
 
